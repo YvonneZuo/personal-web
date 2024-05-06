@@ -11234,6 +11234,7 @@ pre {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+  justify-content: center;
   max-width: 1000px;
   margin: 0 auto 150px;
   z-index: 99;
